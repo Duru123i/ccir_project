@@ -1,0 +1,337 @@
+id_record,age_years,sex,diagnosis1,diagnosis2,diagnosis3,va_re_logMar,va_le_logMar,RE_P50_amplitude,RE_N90_amplitude,LE_P50_amplitude,LE_N90_amplitude
+1,13,Male,Normal,,,-0.08,0.06,7.5,7.5,7.7,5.9
+2,13,Female,Congenital stationary night blindness,,,0.18,0.16,1.4500000000000002,0.5,0.5,1.2
+3,49,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.26,0.0,0.5,2.0,2.8,3.3
+4,43,Female,Retinitis pigmentosa,,,,,0.6,2.1,4.6,2.0
+5,47,Female,Normal,,,0.1,0.1,4.15,0.25,2.4499999999999997,0.2999999999999998
+6,20,Male,Retinal toxicity,,,-0.06,0.04,7.35,3.9499999999999997,6.75,4.75
+7,43,Male,Normal,,,-0.1,0.07,2.7,2.15,1.3499999999999999,1.6
+8,10,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,1.0,0.98,2.8000000000000003,1.1499999999999997,1.75,1.15
+9,13,Male,Inherited optic atrophy,,,0.32,0.26,5.25,4.95,5.4,4.45
+10,35,Female,Retinitis pigmentosa,,,-0.07,0.07,2.9000000000000004,1.5,2.4000000000000004,1.9
+11,24,Female,Retinitis pigmentosa,,,0.2,0.1,2.55,0.5499999999999999,1.85,1.4500000000000002
+12,55,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.0,0.0,3.8,4.3999999999999995,4.2,5.9
+13,55,Female,Paracentral acute middle maculopathy type 2,,,0.52,-0.04,1.8499999999999999,2.1,3.3000000000000003,3.5999999999999996
+14,19,Female,Stargardt disease,,,0.8,0.92,0.19999999999999996,0.30000000000000004,1.5999999999999999,2.0
+15,68,Female,Neurological disorder right side,,,0.7,0.84,2.3,0.25,1.7999999999999998,0.7
+16,12,Male,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.7,0.8,3.8,6.0,4.3,6.1
+17,13,Male,X linked retinoschisis,,,-0.04,0.0,8.399999999999999,2.2,4.15,1.85
+18,59,Female,Macular dystrophy,,,1.1,1.38,0.6000000000000001,0.29999999999999993,0.9,1.25
+19,53,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.36,0.1,2.8499999999999996,1.5499999999999998,3.65,1.25
+20,23,Male,Stargardt disease,,,0.72,0.78,1.9500000000000002,1.9500000000000002,1.65,1.65
+21,6,Female,Congenital achromatopsia,,,1.3,1.3,2.8000000000000003,1.3999999999999995,2.6,0.8
+22,19,Male,Bilateral optic nerve atrophy,,,0.22,0.1,5.95,4.0,6.199999999999999,3.5999999999999996
+23,12,Female,Retinitis pigmentosa,,,0.5,0.5,4.25,2.45,0.6500000000000001,0.6499999999999999
+24,77,Male,Age related choroidal atrophy,,,0.2,0.4,1.95,0.8,0.95,0.85
+25,38,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.08,0.02,5.55,4.1,5.550000000000001,4.699999999999999
+26,6,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.3,0.7,2.4,0.55,2.15,0.25
+27,57,Female,Retinitis pigmentosa (sector),,,0.76,0.44,2.5999999999999996,1.6,2.6499999999999995,2.5
+28,47,Female,Stargardt disease,,,0.0,0.0,2.05,1.5,2.35,0.9
+29,43,Male,Normal,,,-0.08,-0.08,3.5,4.25,4.25,4.1
+30,65,Female,Autoimmune retinopathy,Inflammatory disease,,0.14,0.16,0.19999999999999998,0.9999999999999999,1.1,0.55
+31,39,Female,Normal,,,0.0,-0.02,7.6,8.7,9.3,5.199999999999999
+32,35,Male,Macular dystrophy,Vitelliform macular dystrophy,,0.12,0.34,3.6000000000000005,3.2,3.7,2.9000000000000004
+33,33,Male,Torpedo maculopathy,,,0.08,0.02,5.45,4.85,4.25,4.4
+34,63,Male,Pattern macular dystrophy,Reticular dystrophy,,-0.02,-0.06,2.8499999999999996,0.7999999999999999,2.6500000000000004,1.1
+35,32,Male,Normal,,,0.0,0.0,9.65,3.1999999999999997,8.55,3.0500000000000007
+36,8,Male,X linked retinoschisis,,,0.52,0.26,2.15,3.0,2.9,1.15
+37,62,Male,Retinitis pigmentosa,,,1.52,1.4,1.65,0.55,0.8,0.2500000000000002
+38,35,Male,Retinitis pigmentosa,Usher syndrome,,0.52,0.4,0.19999999999999973,0.8999999999999999,1.7,0.3999999999999999
+39,37,Male,Normal,,,0.0,0.0,3.3499999999999996,2.65,4.95,2.7500000000000004
+40,50,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.0,0.04,1.4500000000000002,1.5499999999999998,0.45,1.15
+41,34,Male,Traumatic optic neuropathy,,,-0.08,0.02,7.95,2.9499999999999997,6.85,1.3999999999999997
+42,70,Female,Normal,,,,,5.4,4.25,6.2,4.25
+43,51,Female,Rubella retinopathy,,,,,6.15,4.6,4.65,2.7
+44,38,Male,Macular dystrophy,Vitelliform macular dystrophy,,0.4,0.52,4.450000000000001,0.3500000000000001,3.9000000000000004,1.0
+45,23,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.84,0.82,0.75,0.7000000000000001,0.3500000000000001,1.7500000000000002
+46,51,Female,Retinal toxicity,,,0.84,1.06,3.7,0.6500000000000001,2.5,0.7999999999999999
+47,39,Female,Normal,,,0.0,0.0,6.5,4.45,4.1,3.0500000000000003
+48,31,Male,Normal,,,-0.04,-0.02,4.95,3.95,4.3,2.45
+49,36,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.12,-0.08,1.85,2.3,3.5,3.25
+50,27,Female,Retinitis pigmentosa,,,,,4.3,1.2499999999999998,3.65,1.35
+51,9,Female,Normal,,,0.66,0.64,3.5,1.25,2.15,1.65
+52,56,Male,Macular dystrophy,Central areolar choroidal dystrophy,,0.4,0.12,0.9999999999999999,0.14999999999999997,0.25,2.0
+53,51,Male,Nonarteritic anterior ischemic optic neuropathy,Macular hole,,-0.04,0.8,6.4,4.95,2.2,3.1500000000000004
+54,37,Male,Retinitis pigmentosa,,,0.66,0.46,2.2,1.15,1.3,0.7
+55,77,Male,Retrobulbar neuritis,,,0.8,0.0,1.25,3.8,3.1500000000000004,1.75
+56,15,Female,Normal,,,0.22,0.16,6.75,3.4000000000000004,4.5,6.25
+57,8,Male,Congenital stationary night blindness,,,1.0,0.8,2.2,1.5,3.8,1.0
+58,18,Male,Normal,,,-0.06,-0.04,4.15,4.05,4.7,4.050000000000001
+59,29,Female,Cone-Rod dystrophy,,,0.4,0.5,1.6,1.1500000000000001,0.6,1.0499999999999998
+60,7,Male,Congenital achromatopsia,,,0.0,0.0,4.95,3.3999999999999995,4.6,4.800000000000001
+61,26,Male,Retinitis pigmentosa,Usher syndrome,,0.5,0.5,13.35,2.8,4.75,0.6
+62,55,Male,Normal,,,0.16,0.1,2.0,3.3999999999999995,1.9500000000000002,4.4
+63,18,Male,Retinitis pigmentosa,,,0.3,0.24,2.6500000000000004,0.7,2.5,0.19999999999999996
+64,13,Female,Normal,,,0.22,0.3,2.45,2.9,0.9,1.25
+65,32,Male,Normal,,,,,3.7,4.9,3.1999999999999997,2.5999999999999996
+66,23,Female,Congenital Achromatopsia,Trichromacy,,0.08,-0.06,3.5,3.8499999999999996,6.25,5.85
+67,40,Male,Retinitis pigmentosa,,,0.16,0.16,2.25,0.1499999999999999,1.5,0.75
+68,17,Female,Optic neuropathy,,,0.4,0.3,2.1,1.1,2.65,2.45
+69,49,Female,Foveal hypoplasia,Congenital abnormality of the retina,,0.4,1.0,2.25,5.25,1.55,4.4
+70,61,Male,Macular dystrophy,Periferina,,0.36,0.22,1.35,0.95,1.2999999999999998,0.55
+71,52,Female,Normal,,,0.12,0.1,5.3999999999999995,3.5999999999999996,5.300000000000001,5.4
+72,52,Female,Cone-Rod dystrophy,,,0.22,0.3,2.05,1.15,3.35,0.7
+73,43,Male,Normal,,,-0.1,-0.1,2.45,4.45,3.6,3.85
+74,7,Male,Normal,,,0.1,0.0,4.6,6.85,4.6,6.6
+75,60,Male,Normal,,,0.42,0.66,0.4,0.9000000000000001,0.65,1.35
+76,46,Male,Normal,,,0.56,0.54,3.3000000000000003,3.2,3.1,3.8499999999999996
+77,52,Female,Congenital stationary night blindness,,,0.22,0.0,0.5,1.9000000000000001,2.6,3.35
+78,14,Female,Normal,,,0.25,0.25,11.149999999999999,4.05,15.8,2.35
+79,47,Male,Cone-Rod dystrophy,,,0.7,1.24,0.29999999999999993,3.1999999999999997,0.35,1.65
+80,31,Male,Normal,,,-0.1,-0.1,6.2,5.0,5.9,5.7
+81,50,Female,Retinitis pigmentosa,,,0.4,0.4,1.15,0.9500000000000001,2.4,0.25
+82,49,Female,Stargardt disease,,,0.06,0.36,1.9500000000000002,1.35,2.85,0.7
+83,33,Male,Retinitis pigmentosa,,,-0.08,0.0,4.8,5.800000000000001,3.25,5.0
+84,49,Female,Inherited optic atrophy,,,3.0,3.0,1.7,2.1,3.3000000000000003,0.40000000000000036
+85,34,Male,Normal,,,0.0,0.0,2.9,2.8,4.1,3.0
+86,25,Male,Retinitis pigmentosa,,,-0.06,0.06,5.65,4.2,0.6,1.95
+87,15,Female,Normal,,,0.18,0.18,3.35,2.55,2.6500000000000004,1.85
+88,51,Female,Toxic neuropathy,,,0.0,-0.02,5.75,3.1999999999999997,4.3,2.85
+89,60,Female,Retinitis pigmentosa,,,0.06,0.04,1.45,0.9500000000000001,1.65,1.0999999999999999
+90,55,Male,Normal,,,1.3,0.38,3.9499999999999997,2.95,3.0,2.0500000000000003
+91,14,Male,Normal,,,-0.02,-0.02,5.5,6.0,5.1000000000000005,6.9
+92,7,Female,Normal,,,0.24,0.34,4.3,5.800000000000001,2.5,4.65
+93,50,Female,Stargardt disease,Fundus flavimaculatus,,0.0,0.0,4.1,2.1999999999999997,3.55,2.5
+94,62,Female,Pattern macular dystrophy,,,0.12,0.02,4.35,2.1,3.9000000000000004,1.3
+95,42,Female,Cone-Rod dystrophy,,,0.34,0.26,2.8,0.04999999999999999,0.5999999999999999,1.4999999999999996
+96,36,Male,Normal,,,,,3.8,1.8,4.35,3.25
+97,28,Female,Normal,,,1.0,0.8,4.4,4.050000000000001,5.35,5.449999999999999
+98,25,Female,Normal,,,-0.04,1.3,7.1,5.0,6.1,6.1
+99,39,Male,Retinal toxicity,Central nervous system toxicity,,-0.08,-0.08,4.65,4.35,5.5,4.85
+100,13,Male,Inherited optic atrophy,,,0.5,0.5,2.85,2.2,2.55,1.9
+101,51,Female,Macular dystrophy,Central areolar choroidal dystrophy,,1.08,0.34,2.05,0.7499999999999999,2.0,0.6000000000000001
+102,36,Male,Blue cone monochromatism,,,1.0,0.98,0.8,0.25000000000000006,2.5,0.45000000000000007
+103,63,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.8,0.12,0.8000000000000003,2.3000000000000003,3.3000000000000003,3.0
+104,48,Male,Ischemic optic neuropathy,,,-0.08,0.26,4.85,4.2,4.5,1.4
+105,49,Female,Pattern macular dystrophy,,,-0.02,-0.02,3.65,4.4,3.4000000000000004,3.05
+106,69,Male,Macular dystrophy,Sorsby Fundus Dystrophy,,0.8,0.34,2.4,1.35,2.55,2.7
+107,23,Female,Albinoidism ,Congenital abnormality of the retina,Mild amblyopia LE by endophoria,0.06,0.16,6.0,3.299999999999999,5.9,4.6
+108,13,Female,Normal,,,1.3,0.92,0.6,1.25,7.0,6.55
+109,29,Female,Retinitis pigmentosa,,,0.0,0.0,2.05,2.45,2.1,1.4500000000000002
+110,61,Female,Retinitis pigmentosa,,,0.74,0.12,1.45,0.55,4.75,1.1
+111,29,Male,Normal,,,,,4.65,4.0,3.3,3.3999999999999995
+112,19,Male,Retinal toxicity,,,-0.08,-0.04,2.8,6.7,6.6,2.45
+113,25,Male,Congenital stationary night blindness,,,0.5,0.5,0.19999999999999993,0.6499999999999999,1.7,0.75
+114,18,Male,X linked retinoschisis,,,0.2,0.2,2.5999999999999996,1.65,1.1,2.95
+115,12,Male,Normal,,,0.16,0.16,9.799999999999999,2.75,7.0,3.3
+116,39,Male,Normal,,,-0.08,-0.1,8.6,6.199999999999999,8.6,6.7
+117,45,Female,Retinitis pigmentosa,,,0.78,0.4,1.3,0.15,1.3,0.10000000000000009
+118,45,Male,Normal,,,0.0,0.0,5.8500000000000005,1.75,6.800000000000001,2.45
+119,16,Female,Congenital stationary night blindness,,,0.22,0.16,4.5,0.1499999999999999,2.75,0.40000000000000013
+120,19,Female,Retinitis pigmentosa,,,0.4,0.46,1.35,0.7000000000000001,2.05,0.5999999999999999
+121,56,Male,X linked retinoschisis,,,0.8,2.0,0.8,1.1,2.7,1.4999999999999996
+122,46,Male,Normal,,,0.06,0.02,3.5,3.4,2.9000000000000004,2.9000000000000004
+123,33,Female,Vitamin A deficit,,,1.6,1.6,2.75,3.15,3.3,3.0500000000000003
+124,41,Male,Normal,,,0.02,-0.08,5.300000000000001,4.85,5.4,5.45
+125,33,Male,Pseudopapiledema ,,,1.25,1.25,4.3,4.85,4.1,4.6
+126,43,Male,Autoimmune retinopathy,Inflammatory disease,,-0.02,-0.04,1.25,1.0499999999999998,1.9500000000000002,1.7
+127,45,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.0,0.12,2.95,2.25,3.85,2.85
+128,19,Female,Congenital Achromatopsia,,,1.3,1.3,5.45,3.25,23.85,0.4999999999999982
+129,6,Female,Normal,,,0.18,1.44,5.949999999999999,7.35,4.4,4.949999999999999
+130,21,Female,Normal,,,0.6,0.6,6.2,5.75,5.949999999999999,6.8
+131,51,Female,Autoimmune retinopathy,Inflammatory disease,,0.04,0.05,3.55,3.9999999999999996,1.8,2.15
+132,46,Male,Macular dystrophy,,,0.96,0.4,1.55,0.20000000000000007,0.8500000000000001,0.15000000000000002
+133,52,Male,Bilateral optic nerve atrophy,Glaucoma,,0.54,0.32,1.2,0.5499999999999999,1.9,0.7499999999999999
+134,11,Female,Normal,,,0.22,0.3,5.2,2.45,2.8,4.1499999999999995
+135,38,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.8,0.3,2.0,1.15,1.2000000000000002,0.65
+136,18,Female,Central nervous system infection,,,,,4.25,3.55,4.75,4.65
+137,33,Female,Normal,,,-0.08,-0.08,3.9,1.8500000000000003,3.95,3.8499999999999996
+138,69,Female,Red and blue cone monochromacy,Congenital abnormality of the retina,,0.0,0.0,4.1,0.2999999999999998,5.0,0.2999999999999998
+139,17,Female,Stargardt disease,,,-0.1,0.0,3.3,2.5,2.85,2.8500000000000005
+140,45,Male,Central serous chorioretinopathy (CSCR),,,0.0,0.1,5.15,4.55,5.449999999999999,3.75
+141,48,Male,Normal,,,0.0,0.07,1.65,1.7,2.1,0.29999999999999993
+142,51,Female,Normal,,,,,2.2,1.5,1.45,0.95
+143,20,Female,Macular dystrophy,Periferina,,0.4,0.5,1.35,2.7,1.5499999999999998,1.0499999999999998
+144,30,Female,Normal,,,-0.08,-0.08,2.4,4.199999999999999,3.5999999999999996,3.0999999999999996
+145,15,Male,Retinitis pigmentosa,,,0.28,0.54,0.4000000000000001,0.8499999999999999,0.8500000000000001,0.65
+146,44,Male,Retinitis pigmentosa,,,0.18,0.18,2.6,0.04999999999999999,1.4500000000000002,0.55
+147,56,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,-0.04,-0.04,3.4,3.9,1.9,2.9
+148,60,Female,Stargardt disease,,,3.0,2.0,2.3499999999999996,0.4,2.0999999999999996,1.0499999999999998
+149,17,Female,Retinal toxicity,,,0.1,0.1,5.3,3.5,2.5,2.55
+150,57,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,-0.04,0.18,3.9000000000000004,3.55,2.15,2.85
+151,55,Male,Retinitis pigmentosa,,,0.26,0.32,1.9000000000000001,1.05,0.8500000000000001,1.35
+152,21,Male,Retinitis pigmentosa,,,0.1,0.0,0.9000000000000001,0.6499999999999999,1.2000000000000002,0.6000000000000001
+153,29,Female,Infectious neuritis,,,0.2,0.6,6.0,5.050000000000001,4.95,4.4
+154,37,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.12,-0.04,2.5,1.1500000000000001,4.6,5.2
+155,59,Male,Retinitis pigmentosa,,,-0.06,-0.04,2.3,2.05,1.3,0.55
+156,49,Female,Stargardt disease,,,-0.02,-0.04,3.7,5.800000000000001,3.45,5.449999999999999
+157,52,Female,Normal,,,0.06,0.02,3.05,0.55,4.8,4.8
+158,11,Female,Normal,,,0.4,0.52,8.3,7.0,8.0,10.4
+159,51,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.16,0.16,2.3499999999999996,2.6500000000000004,2.2,0.14999999999999997
+160,22,Female,Stargardt disease,,,0.78,0.8,1.65,0.6500000000000001,1.9,0.7999999999999999
+161,18,Female,Optic neuropathy,,,,,3.1,2.4000000000000004,3.9,2.65
+162,45,Male,Normal,,,0.52,2.0,2.9000000000000004,1.9500000000000002,2.45,0.0
+163,34,Male,Congenital achromatopsia,,,0.8,0.8,0.4999999999999999,1.25,3.8499999999999996,0.75
+164,60,Male,Retinitis pigmentosa,,,-0.04,0.0,2.8,1.85,1.2,0.3499999999999999
+165,67,Female,Normal,,,-0.1,0.0,1.85,2.4499999999999997,2.0500000000000003,2.55
+166,49,Male,Stargardt disease,,,0.28,-0.02,1.8,0.9,2.5,1.7
+167,59,Female,Pseudovitelliform macular dystrophy,,,0.4,0.04,3.8000000000000003,0.40000000000000013,6.800000000000001,3.3500000000000005
+168,60,Male,Macular dystrophy,Benign concentric annular macular dystrophy,,0.18,0.18,0.9500000000000001,1.35,1.5,0.10000000000000003
+169,59,Male,Optic neuropathy,Posterior Uveitis,Inflammatory disease,0.0,1.3,3.0,2.55,1.7000000000000002,0.7
+170,50,Male,Normal,,,-0.02,-0.02,5.7,2.75,4.1,2.8
+171,81,Male,Retinitis pigmentosa,,,0.8,0.4,1.0,0.1,1.6999999999999997,0.19999999999999973
+172,17,Female,Normal,,,,,5.25,3.8500000000000005,4.7,3.25
+173,54,Female,Stargardt disease,,,0.0,0.0,5.75,4.6,3.25,2.8
+174,37,Male,Macular dystrophy,Periferina,,0.24,0.04,0.9000000000000001,1.15,1.05,1.4000000000000001
+175,37,Female,Normal,,,0.0,0.0,8.2,7.3,7.5,3.75
+176,34,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.4,0.08,5.15,5.1,5.4,5.9
+177,45,Female,Macular dystrophy,Alport syndrome: Systemic disorder with ocular manifestations,,0.28,1.08,5.1,0.7999999999999999,5.25,1.3999999999999995
+178,51,Female,Macular dystrophy,Vitelliform macular dystrophy,,0.04,0.04,3.95,3.0999999999999996,4.25,3.4
+179,39,Male,Normal,,,-0.04,-0.08,4.8,3.9,4.65,3.9000000000000004
+180,57,Male,Normal,,,0.52,0.28,1.6,0.44999999999999996,2.05,2.35
+181,47,Male,Retinitis pigmentosa,,,0.04,-0.04,3.1,1.6,3.4,1.7999999999999998
+182,36,Male,Inherited optic atrophy,,,0.14,0.0,2.8499999999999996,2.6500000000000004,2.6500000000000004,4.1
+183,55,Male,Stargardt disease,,,0.36,0.8,0.8,0.39999999999999997,1.75,1.0999999999999999
+184,65,Female,Normal,,,3.0,2.0,0.8,0.55,3.05,1.1999999999999997
+185,77,Male,Nonarteritic anterior ischemic optic neuropathy,,,1.5,0.1,0.9499999999999998,1.4500000000000002,0.7,0.7
+186,37,Female,Stargardt disease,,,1.02,1.0,0.3,1.6,0.65,0.3
+187,38,Female,Normal,,,0.0,0.0,3.7,3.1999999999999997,4.0,4.1000000000000005
+188,24,Male,Retinitis pigmentosa (sector),,,0.0,0.0,3.0,5.95,1.1,0.8999999999999999
+189,48,Male,Central serous chorioretinopathy (CSCR),,,0.68,1.3,3.0,0.2,2.5,0.10000000000000009
+190,42,Female,Macular dystrophy,Periferina,,0.4,0.5,2.3,0.19999999999999996,2.9000000000000004,3.0
+191,16,Male,Cone-Rod dystrophy,,,0.0,0.0,4.300000000000001,4.0,3.0,1.85
+192,42,Female,Central serous chorioretinopathy (CSCR),,,0.4,0.5,3.8000000000000003,2.85,2.3,1.4500000000000002
+193,9,Male,Retinitis pigmentosa,Down's Syndrome,,,,9.5,8.35,8.649999999999999,7.65
+194,61,Male,Normal,,,2.29999999999999,0.04,1.7999999999999998,0.95,3.5,1.5499999999999998
+195,60,Male,Macular dystrophy,Dominant drusen,,0.1,0.6,1.5,0.25,1.2000000000000002,0.05000000000000002
+196,14,Female,Normal,,,-0.02,-0.02,7.3999999999999995,6.85,5.45,5.65
+197,21,Female,Normal,,,1.52,1.52,4.8,1.0499999999999998,4.5,5.2
+198,9,Female,Normal,,,0.16,0.1,6.699999999999999,6.15,8.5,6.550000000000001
+199,16,Female,Normal,,,0.22,0.16,2.1999999999999997,2.15,2.5500000000000003,3.3499999999999996
+200,9,Female,Normal,,,0.0,0.14,7.35,6.5,5.55,6.9
+201,10,Male,Systemic disorder with ocular manifestations,Retinal astrocytic hamartoma,Bourneville disease,0.16,0.3,2.0,1.15,1.45,1.75
+202,62,Female,Normal,,,0.0,0.04,1.0,1.2999999999999998,0.9500000000000001,0.7999999999999999
+203,36,Female,Retinal toxicity,Systemic disorder with ocular manifestations,,0.0,0.0,4.25,2.8499999999999996,3.25,3.2
+204,51,Male,Traumatic optic neuropathy,,,3.0,-0.08,4.45,1.3499999999999999,3.05,2.1
+205,41,Female,Retinitis pigmentosa (sector),,,0.16,0.1,2.3,2.6,2.55,2.45
+206,48,Male,Macular telangiectasias,,,-0.04,-0.08,5.6,3.95,6.55,2.95
+207,51,Female,Sarcoidosis neuropathy,Inflammatory disease,,3.0,3.0,2.5,1.5,3.4000000000000004,4.5
+208,11,Male,Normal,,,0.1,0.16,3.0,5.3999999999999995,3.2,4.5
+209,20,Female,Retinitis pigmentosa,,,-0.08,-0.08,3.0,1.7000000000000002,2.5,1.7999999999999998
+210,13,Male,Normal,,,0.16,0.1,1.55,1.2,1.9,2.55
+211,86,Female,Normal,,,0.36,0.3,2.5,5.1000000000000005,2.2,5.1
+212,43,Male,Normal,,,-0.08,-0.08,3.7,2.9,3.3,3.5
+213,39,Female,Retinitis pigmentosa,,,3.0,0.16,1.1,0.35000000000000003,1.45,0.7999999999999999
+214,52,Female,Macular dystrophy,Dominant drusen,,0.04,0.2,4.800000000000001,3.1,3.55,1.4
+215,53,Male,Normal,,,0.0,-0.04,4.2,4.0,5.15,5.449999999999999
+216,18,Female,Retinitis pigmentosa,,,0.2,0.2,1.9500000000000002,0.5,1.9,0.2499999999999999
+217,8,Female,Normal,,,0.16,0.16,6.300000000000001,6.0,5.1499999999999995,5.199999999999999
+218,38,Male,Normal,,,-0.08,-0.04,3.75,2.9,2.5,1.1500000000000001
+219,49,Female,Systemic disorder with ocular manifestations,Pattern macular dystrophy,Kearns-Sayre syndrome,-0.04,-0.04,1.3999999999999995,6.1000000000000005,9.700000000000001,6.599999999999998
+220,16,Male,Retinitis pigmentosa,,,0.26,0.26,0.6000000000000001,0.4,1.0,0.3
+221,47,Male,Autoimmune retinopathy,Inflammatory disease,,-0.04,-0.08,2.45,1.25,0.8,2.15
+222,43,Male,Retinitis pigmentosa,,,0.22,0.4,1.55,0.5,1.0,1.3
+223,39,Male,Normal,,,0.04,0.04,4.45,2.55,3.9,2.7
+224,58,Male,Congenital stationary night blindness,,,0.28,0.28,1.95,0.7999999999999998,1.2000000000000002,0.09999999999999998
+225,47,Male,Normal,,,0.0,0.36,4.2,1.8499999999999999,3.85,1.4499999999999997
+226,34,Female,Normal,,,-0.08,-0.08,4.65,6.5,5.6,5.65
+227,11,Female,Cone-Rod dystrophy,,,0.44,0.48,1.4000000000000001,0.4,0.6000000000000001,0.4
+228,37,Male,Cone-Rod dystrophy,,,,,0.7999999999999998,0.10000000000000009,2.95,0.19999999999999996
+229,55,Male,Pathologic myopia,,,0.16,0.16,2.65,0.4,2.6500000000000004,1.05
+230,47,Female,Retinitis pigmentosa,,,,,1.4500000000000002,0.3,1.35,0.6500000000000001
+231,58,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.0,0.02,3.2,2.25,1.6500000000000001,2.9000000000000004
+232,81,Male,Macula toxicity,Chloroquine poisoning,,0.26,1.3,1.5,1.4000000000000001,1.4500000000000002,0.5000000000000001
+233,22,Male,Normal,,,0.08,-0.08,11.2,7.550000000000001,8.35,6.45
+234,38,Male,Macular dystrophy,Periferina,,-0.06,0.0,5.3,3.95,4.9,2.9000000000000004
+235,57,Female,Arterio-venous malformation in right thalamus,,,1.0,0.8,0.5999999999999999,2.4000000000000004,4.65,0.5
+236,7,Male,Albinism,Congenital abnormality of the retina,Oculocutaneous albinism,0.3,0.3,4.5,3.4,3.5,3.7
+237,7,Female,Central nervous system disorder,14q32 deletion: Systemic disorder with ocular manifestations,,0.8,0.7,2.6500000000000004,1.6999999999999997,4.25,2.05
+238,41,Male,Normal,,,0.0,0.0,2.9,2.95,1.95,2.95
+239,35,Male,Cone-Rod dystrophy,,,1.3,1.3,0.19999999999999996,0.29999999999999993,4.0,1.3000000000000003
+240,47,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.1,0.0,2.05,1.85,2.25,1.25
+241,56,Male,Normal,,,0.22,0.3,1.9,0.5999999999999999,2.65,0.6000000000000002
+242,19,Male,Inherited optic atrophy,,,0.18,0.8,5.95,4.3,6.75,2.8
+243,33,Male,Retinitis pigmentosa,,,-0.04,-0.04,16.9,12.399999999999999,16.5,12.95
+244,8,Male,Congenital stationary night blindness,,,0.52,0.4,10.3,7.1000000000000005,6.8999999999999995,4.699999999999999
+245,67,Female,Retinitis pigmentosa,Sectorial-Rodopsina,,0.0,0.96,3.8,1.9500000000000002,2.1,1.9000000000000001
+246,61,Male,Cone-Rod dystrophy,,,1.3,0.4,1.15,1.9,0.9999999999999999,0.8
+247,29,Female,Retinitis pigmentosa,,,-0.08,-0.08,2.3,1.4,1.9000000000000001,1.2000000000000002
+248,54,Male,Bilateral Optic Atrophy,Retinal vein occlusion,,1.3,3.0,1.7,1.2,2.15,0.45
+249,4,Male,Albinism,Congenital abnormality of the retina,,0.3,0.3,4.2,7.0,4.6,3.0999999999999996
+250,19,Male,Stargardt disease,,,0.2,0.52,3.5999999999999996,4.1,2.9,3.0999999999999996
+251,30,Male,Normal,,,0.0,0.0,4.9,5.5,5.6,4.45
+252,44,Male,Autoimmune retinopathy,Inflammatory disease,,0.0,0.0,3.0500000000000003,0.30000000000000004,1.4500000000000002,1.45
+253,16,Male,Stargardt disease,Cone-Rod dystrophy,,0.78,0.88,2.0999999999999996,0.35,2.0,0.9500000000000001
+254,38,Female,External ophthalmoplegia,Speckled retinal pigment epithelium,,0.04,0.06,1.9500000000000002,1.8,0.7999999999999999,0.95
+255,54,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,-0.02,-0.04,4.15,3.55,4.3,3.55
+256,50,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.12,0.14,1.15,1.35,1.0499999999999998,2.4000000000000004
+257,22,Male,Macular dystrophy,Periferina,,,,6.65,7.4,6.4,6.1
+258,21,Female,Normal,,,-0.08,-0.08,6.85,6.6,5.65,6.55
+259,55,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.0,0.0,2.3499999999999996,4.2,3.45,2.8
+260,67,Female,Nonarteritic anterior ischemic optic neuropathy,,,1.54,0.96,12.200000000000001,3.6,0.3999999999999999,5.200000000000001
+261,28,Female,Normal,,,0.0,0.0,9.299999999999999,13.5,0.3,0.0
+262,10,Female,Normal,,,0.06,0.14,3.25,2.05,2.9000000000000004,1.95
+263,14,Female,Normal,,,0.2,0.18,3.0,2.5,2.5,1.1
+264,36,Male,Retinitis pigmentosa,,,-0.08,-0.08,5.4,5.2,5.5,4.199999999999999
+265,9,Female,Normal,,,0.0,0.0,6.1499999999999995,7.15,5.65,6.699999999999999
+266,53,Male,Normal,,,-0.1,-0.1,4.15,1.75,4.65,2.9000000000000004
+267,61,Male,Central serous chorioretinopathy (CSCR),,,0.22,1.3,3.95,2.0,2.5,0.95
+268,85,Female,Normal,,,0.5,0.36,3.25,4.800000000000001,4.85,5.35
+269,51,Male,Normal,,,0.02,0.02,1.15,0.6499999999999999,1.35,0.2
+270,40,Female,Cone-Rod dystrophy,,,0.2,0.22,1.5499999999999998,0.7,4.4,0.4999999999999999
+271,38,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.08,-0.04,1.75,1.6,2.35,4.25
+272,40,Male,Normal,,,0.1,0.0,3.35,2.25,3.35,3.3
+273,26,Male,Inherited optic atrophy,,,0.04,1.0,2.8,4.5,2.45,2.8499999999999996
+274,52,Male,Normal,,,0.1,0.1,3.65,2.1500000000000004,2.55,1.25
+275,72,Male,Autoimmune retinopathy,Inflammatory disease,,0.1,0.06,0.55,0.29999999999999993,1.05,2.0
+276,27,Female,Cone-Rod dystrophy,Fundus flavimaculatus,,1.3,0.92,1.2000000000000002,1.2999999999999998,0.9499999999999998,1.0499999999999998
+277,40,Female,Normal,,,0.0,0.8,2.95,0.7,2.8499999999999996,1.1
+278,10,Male,Cone-Rod dystrophy,,,0.52,0.52,2.1999999999999997,0.55,2.55,0.30000000000000004
+279,14,Male,Retinitis pigmentosa,,,0.8,0.0,1.15,0.6,6.050000000000001,5.450000000000001
+280,35,Female,Retinitis pigmentosa,,,,,1.2000000000000002,0.14999999999999997,1.85,0.4
+281,29,Male,Normal,,,-0.02,-0.06,7.9,6.2,7.699999999999999,5.8999999999999995
+282,22,Male,Macular dystrophy,Vitelliform macular dystrophy,,0.08,0.8,1.6,1.1,1.6,0.10000000000000009
+283,27,Female,Normal,,,-0.1,-0.1,5.6,9.9,8.4,8.85
+284,54,Female,Macular dystrophy,Dominant drusen,,0.04,0.04,7.7,3.1,19.299999999999997,3.1999999999999993
+285,9,Male,Albinoidism ,Congenital abnormality of the retina,,,,9.45,6.9,7.5,7.95
+286,40,Female,Retinitis pigmentosa,Bietti's Crystalline Corneoretinal Dystrophy,,0.0,0.12,2.05,0.6000000000000001,1.7000000000000002,0.6000000000000001
+287,41,Male,Congenital Achromatopsia,,,0.7,0.7,1.9,1.05,1.5499999999999998,1.85
+288,18,Male,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.8,0.26,0.6500000000000001,0.6499999999999999,0.9500000000000001,0.6499999999999999
+289,14,Female,Optic neuropathy,,,1.5,1.5,5.949999999999999,4.199999999999999,5.75,5.3
+290,49,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.1,0.16,1.15,1.3,0.3999999999999999,0.8499999999999999
+291,7,Female,Normal,,,0.52,0.52,6.4,7.15,6.050000000000001,7.800000000000001
+292,35,Female,Retinal toxicity,Systemic disorder with ocular manifestations,,0.0,0.0,2.15,2.65,4.85,2.6999999999999997
+293,30,Male,Normal,,,0.16,-0.04,4.0,3.7,4.0,4.3
+294,23,Male,Anisometropic amblyopia,,,0.98,0.14,1.1,0.5,4.35,4.2
+295,44,Male,Congenital stationary night blindness,,,0.8,0.6,1.5499999999999998,0.9499999999999998,1.6,0.9500000000000002
+296,33,Male,Retinitis pigmentosa,,,0.02,0.0,6.6,6.300000000000001,6.35,5.95
+297,29,Female,Inherited optic atrophy,,,0.52,0.52,5.1,5.8,5.300000000000001,4.7
+298,32,Female,Cone-Rod dystrophy,,,0.52,0.3,0.8500000000000001,0.35000000000000003,1.75,1.25
+299,80,Female,Pseudo retinitis pigmentosa,Posterior Uveitis,Inflammatory disease,1.18,0.0,2.35,0.45,3.6500000000000004,1.9500000000000002
+300,37,Male,Normal,,,-0.06,-0.06,6.1,3.4499999999999997,4.15,3.8000000000000003
+301,52,Male,Normal,,,-0.02,-0.04,3.9,1.6,2.0,0.5500000000000002
+302,27,Female,Cone-Rod dystrophy,,,0.4,0.4,1.25,1.35,1.05,1.3
+303,9,Female,Normal,,,0.04,0.16,7.949999999999999,6.45,4.65,4.0
+304,24,Female,Retinitis pigmentosa,,,0.1,0.16,2.9499999999999997,1.0499999999999998,2.4499999999999997,1.45
+305,25,Female,Normal,,,0.3,0.3,7.65,6.15,9.899999999999999,6.35
+306,59,Female,Acute macular neuroretinopathy,Inflammatory disease,,0.02,-0.06,4.2,3.3000000000000003,4.050000000000001,3.75
+307,49,Female,Retinitis pigmentosa,Usher syndrome,,0.0,0.1,1.7499999999999998,0.7499999999999999,0.6000000000000001,1.0999999999999999
+308,19,Female,Inherited optic atrophy,,,-0.02,0.0,6.25,3.5,4.800000000000001,3.8
+309,39,Male,Normal,,,-0.06,-0.06,5.35,2.75,4.0,5.05
+310,41,Female,Normal,,,0.0,0.08,4.3500000000000005,3.05,4.25,2.3999999999999995
+311,16,Male,Retinitis pigmentosa,,,0.28,0.26,0.6,0.45,0.6,0.65
+312,48,Female,Pathologic myopia,,,1.1,1.34,3.25,1.75,1.0499999999999998,1.5500000000000003
+313,5,Female,Inherited optic atrophy,,,0.68,0.7,7.3,2.3,6.0,1.4000000000000004
+314,42,Male,Normal,,,0.3,0.2,3.0,4.3,3.1,3.4000000000000004
+315,22,Female,Normal,,,-0.02,-0.08,4.95,2.9000000000000004,5.1,2.4
+316,34,Female,Affectation of the chiasm,Bitemporal hemianopsia by acrylamide poisoning,,-0.04,-0.08,4.1499999999999995,3.05,5.6,3.25
+317,34,Female,Retinitis pigmentosa,,,0.14,0.12,0.7,1.0,0.2999999999999998,5.0
+318,61,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.06,0.06,1.7000000000000002,0.8500000000000001,1.4500000000000002,2.6999999999999997
+319,52,Female,Autoimmune retinopathy,Inflammatory disease,,-0.08,0.02,3.95,4.5,1.55,4.15
+320,19,Female,Albinism,Congenital abnormality of the retina,,0.46,0.16,4.5,5.15,9.5,3.9999999999999996
+321,31,Male,Stargardt disease,,,0.66,0.48,3.3999999999999995,1.4999999999999998,5.5,0.5499999999999998
+322,50,Female,Central serous chorioretinopathy (CSCR),,,-0.02,-0.08,8.45,6.95,7.55,8.3
+323,52,Male,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,,,1.55,1.2,0.7,0.6
+324,31,Male,Torpedo maculopathy,,,0.2,0.12,3.55,5.050000000000001,3.4,5.0
+325,61,Male,Inherited optic atrophy,,,0.4,0.56,5.35,1.0,4.1,0.8
+326,40,Male,Normal,,,-0.04,-0.04,2.4499999999999997,3.7,3.75,1.7499999999999998
+327,24,Female,Normal,,,0.0,-0.06,7.0,5.35,6.0,4.6
+328,46,Male,Normal,,,-0.02,-0.02,5.35,4.2,4.85,3.3000000000000003
+329,44,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.1,0.0,2.8,0.8499999999999999,3.6,5.0
+330,43,Female,Normal,,,,,5.0,2.6999999999999997,5.35,2.75
+331,60,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.0,0.0,2.55,0.65,1.0,0.25
+332,43,Male,Autoimmune retinopathy,Inflammatory disease,,0.02,0.0,1.15,1.1,2.1500000000000004,1.25
+333,4,Male,X linked retinoschisis,,,1.0,0.52,1.2,0.6,0.30000000000000004,2.7
+334,14,Male,Normal,,,-0.1,-0.06,6.6,6.300000000000001,6.35,5.95
+335,23,Female,Retinitis pigmentosa,,,0.0,0.0,9.5,8.35,8.649999999999999,7.65
+336,8,Female,Normal,,,0.0,0.0,0.0,0.0,0.0,0.0
